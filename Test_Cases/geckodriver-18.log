@@ -1,0 +1,12 @@
+1604912410166	geckodriver	INFO	Listening on 127.0.0.1:60828
+1604912413279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZUZANN~1.SOS\\AppData\\Local\\Temp\\rust_mozprofile18ovmS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604912416357	Marionette	INFO	Listening on port 60836
+1604912416452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1605102073625	Marionette	INFO	Stopped listening on port 60836
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
